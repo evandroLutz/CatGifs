@@ -2,3 +2,43 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
 @import url('https://cdn.jsdelivr.net/font-hack/2.020/css/hack.min.css');
+
+img {
+    border-radius: 10px;
+    min-height: 100px;
+}
+
+.card {
+    border-radius: 10px;
+    min-height: 100px;
+}
+
+@media (max-width: 575.98px) { 
+    .card-columns {
+        column-count: 1
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .card-columns {
+        column-count: 2
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .card-columns {
+        column-count: 3
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .card-columns {
+        column-count: 4
+    }
+}
+
+@media (min-width: 1200px) { 
+    .card-columns {
+        column-count: 4
+    }
+}
