@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/site.png">
 
-# <img src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif"> Contributing
+# <img src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif" width="30"> Contributing
 
 ### 1. 🍴 Fork Repo
 
