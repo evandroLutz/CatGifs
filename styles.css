@@ -8,9 +8,21 @@ img {
     min-height: 100px;
 }
 
+.alert {
+    border-radius: 10px;
+}
+
+.card-img-top {
+    border-radius: 10px;
+}
+
 .card {
     border-radius: 10px;
     min-height: 100px;
+}
+
+.btn {
+    border-radius: 10px;
 }
 
 @media (max-width: 575.98px) { 
